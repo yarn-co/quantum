@@ -1,3 +1,6 @@
+![alt text] [logo]
+[logo]: http://postimg.org/image/hleu9s4yj/ "Quantum Logo"
+
 #Quantum
 
 ###Summary
