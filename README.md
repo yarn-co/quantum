@@ -1,4 +1,4 @@
-![alt text](http://postimg.org/image/hleu9s4yj/ "Quantum Logo")
+![alt text](https://github.com/yarn-co/quantum/blob/master/QuantumLogo.png "Quantum Logo")
 
 #Quantum
 
