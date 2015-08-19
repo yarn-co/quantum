@@ -2,6 +2,9 @@
 
 #Quantum
 
+###Storyline
+_Welcome to the Quantum realm. You are one of many Avatars now to have uploaded yourself to the most dangerous sector of the Yarniverse. Prepare your Algorithms and ready your Alters, for it is here that you must demonstrate your power and understanding of the ever changing Cloud space. Gather your Qubits and spend them wisely, else you might find yourself overrun with Grumpy Cats, Void Dragons, and Dramatic Chipmunks. With the proper Anti-Virus Protection, though, and a jump into your Superposition you might just escape and live to jack in another day. Best of luck, Avatar, and may the Quantum realm treat you better than many of the others that have come before you..._
+
 ###Summary
 Quantum Cloud is a game where two or more Avatars from the Yarniverse meet on an ever changing battlefield in the depths of the Cloud and use Alters and Algorithms to fight for survival and control of the Quantum realm.
 
@@ -85,6 +88,3 @@ Avatars’ life does not regenerate at the end of a turn. There life slowly wear
 
 ###Note on User Generated Content
 Since Avatars, Alters, and Algorithms are based on a cost (Qubits), users could use a template to build their own Avatars, Alters, and Algorithms that would automatically be balanced for gameplay.
-
-###Storyline
-_Welcome to the Quantum realm. You are one of many Avatars now to have uploaded yourself to the most dangerous sector of the Yarniverse. Prepare your Algorithms and ready your Alters, for it is here that you must demonstrate your power and understanding of the ever changing Cloud space. Gather your Qubits and spend them wisely, else you might find yourself overrun with Grumpy Cats, Void Dragons, and Dramatic Chipmunks. With the proper Anti-Virus Protection, though, and a jump into your Superposition you might just escape and live to jack in another day. Best of luck, Avatar, and may the Quantum realm treat you better than many of the others that have come before you..._
