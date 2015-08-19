@@ -1,5 +1,4 @@
-![alt text] [logo]
-[logo]: http://postimg.org/image/hleu9s4yj/ "Quantum Logo"
+![alt text](http://postimg.org/image/hleu9s4yj/ "Quantum Logo")
 
 #Quantum
 
